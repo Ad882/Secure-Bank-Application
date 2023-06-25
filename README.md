@@ -6,7 +6,7 @@ The aim of the project was to create a "Secure Bank Application" (SBA): a client
 
 For more information on usage, design choices, security measures, etc., please refer to the document [Documentation.pdf](Documentation.pdf).
 
-⚠️ **Warning**: Before running the code, make sure OpenSSL is installed on your computer. ⚠️
+⚠️ **Warning**: Before running the code, make sure the library *OpenSSL* is installed on your computer. ⚠️
 
 
 
