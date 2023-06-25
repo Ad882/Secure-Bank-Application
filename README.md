@@ -1,11 +1,13 @@
 # Secure-Bank-Application
+
 Simple cryptographically secure bank application
 
-The aim of the project was to create a ”Secure Bank Application” (SBA): a client-server application that allows users to issue operations on their own bank account. Where each user is modeled by a username and a password whereas each bank account by an accountID and a balance. For simplicity we assume that a user owns a single account and that an account is owned by a single owner.
+The aim of the project was to create a "Secure Bank Application" (SBA): a client-server application that allows users to perform operations on their own bank account. Each user is represented by a username and a password, while each bank account is represented by an accountID and a balance. For simplicity, we assume that a user owns a single account and that an account is owned by a single owner.
 
-For more information of the use, design choices, security choices... please look at the document Documentation.pdf
+For more information on usage, design choices, security measures, etc., please refer to the document [Documentation.pdf](link-to-documentation).
 
-\&#9888; Attention: Before running the code, make sure OpenSSL is installed on your computer. \&#9888;
+⚠️ **Warning**: Before running the code, make sure OpenSSL is installed on your computer. ⚠️
+
 
 
 
