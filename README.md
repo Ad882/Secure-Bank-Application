@@ -5,4 +5,8 @@ The aim of the project was to create a ”Secure Bank Application” (SBA): a cl
 
 For more information of the use, design choices, security choices... please look at the document Documentation.pdf
 
+<span style="color:orange; font-size:18px;">/!\ Warning</span> Before running the code make sure OpenSSL is installed on your computer. <span style="color:orange; font-size:18px;">/!\ Warning</span>
+
+
+
 
