@@ -11,7 +11,6 @@ For more information on usage, design choices, security measures, etc., please r
 
 > On Linux:
 
-```sudo apt-get update
-
+```sudo apt-get update  
 sudo apt-get install openssl
 
