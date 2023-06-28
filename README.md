@@ -5,7 +5,7 @@ Simple cryptographically secure bank application
 The aim of the project was to create a "Secure Bank Application" (SBA): a client-server application that allows users to perform operations on their own bank account. Each user is represented by a username and a password, while each bank account is represented by an accountID and a balance. For simplicity, we assume that a user owns a single account and that an account is owned by a single owner.
 
 
-> To run the program, juste enter in a terminal:
+> To run the program in a terminal, enter:
 
 ```
 make clean    
