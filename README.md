@@ -9,8 +9,11 @@ For more information on usage, design choices, security measures, etc., please r
 ⚠️ **Warning**: Before running the code, make sure the library *OpenSSL* is installed on your computer. ⚠️
 
 > On Linux:  
-`sudo apt-get update  
-sudo apt-get install openssl `
+`sudo apt-get update`  
+`sudo apt-get install openssl`
+
+> On Windows:
+Tg
 
 
 
