@@ -10,10 +10,11 @@ For more information on usage, design choices, security measures, etc., please r
 
 On Linux:  
 
-<sup> 
+
 > sudo apt-get update  
 > sudo apt-get install openssl
-</sup>
+
+
 
 
 
