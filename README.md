@@ -1,4 +1,4 @@
-# Secure Bank Application
+# Secure bank application
 
 Simple cryptographically secure bank application.
 
